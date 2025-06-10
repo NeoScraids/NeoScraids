@@ -10,8 +10,8 @@
   <a href="https://github.com/NeoScraids">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/NeoScraids?label=Seguidores&style=social" />
   </a>
-  <a href="https://twitter.com/TU_USER">
-    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/TU_USER?style=social" />
+  <a href="https://twitter.com/Scraids">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/Scraids?style=social" />
   </a>
 </p>
 
@@ -62,7 +62,7 @@
 ## 📫 Contacto
 
 - ✉️ Email: <brandon7127329@gmail.com>  
-- 🔗 LinkedIn: [tu-perfil](https://www.linkedin.com/in/brandon-alexander-mendieta-suarez-15a14619b/)  
+- 🔗 LinkedIn: [Brandon Alexander Mendieta Suarez](https://www.linkedin.com/in/brandon-alexander-mendieta-suarez-15a14619b/)  
 
 ---
 
