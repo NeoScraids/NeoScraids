@@ -1,7 +1,7 @@
 <!-- README.md del perfil de GitHub de NeoScraids -->
 
 <p align="center">
-  <!-- Banner animado -->
+  <!-- Banner animado (añade banner.gif en tu repo) -->
   <img src="https://github.com/NeoScraids/NeoScraids/raw/main/banner.gif" alt="Banner Animado" />
 </p>
 
@@ -21,10 +21,7 @@
   </a>
 </p>
 
-<!-- Separador animado SVG -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/NeoScraids/NeoScraids/main/wave.svg" width="100%" />
-</p>
+---
 
 ## 🛠️ Sobre mí
 
