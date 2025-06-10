@@ -1,7 +1,7 @@
 <!-- README.md del perfil de GitHub de NeoScraids -->
 
 <p align="center">
-  <!-- Banner animado: sube banner.gif a tu repo en la ruta /banner.gif -->
+  <!-- Banner animado (añade banner.gif en tu repo) -->
   <img src="https://github.com/NeoScraids/NeoScraids/raw/main/banner.gif" alt="Banner Animado" />
 </p>
 
@@ -21,10 +21,7 @@
   </a>
 </p>
 
-<!-- Separator Animated SVG: sube divider.svg a tu repo en la ruta /divider.svg -->
-<p align="center">
-  <img src="https://github.com/NeoScraids/NeoScraids/raw/main/divider.svg" width="100%" alt="Divider Animated" />
-</p>
+---
 
 ## 🛠️ Sobre mí
 
@@ -33,10 +30,7 @@
 - 🤖 Explorando redes neuronales y prompt engineering  
 - 🌐 Amante de todo lo relacionado con infraestructura, CI/CD y cloud  
 
-<!-- Separator Animated SVG -->
-<p align="center">
-  <img src="https://github.com/NeoScraids/NeoScraids/raw/main/divider.svg" width="100%" alt="Divider Animated" />
-</p>
+---
 
 ## 🔧 Habilidades y Herramientas
 
@@ -44,10 +38,7 @@
   <img src="https://skillicons.dev/icons?i=python,bash,docker,k8s,terraform,ansible,aws,azure,git" />
 </p>
 
-<!-- Separator Animated SVG -->
-<p align="center">
-  <img src="https://github.com/NeoScraids/NeoScraids/raw/main/divider.svg" width="100%" alt="Divider Animated" />
-</p>
+---
 
 ## 📈 GitHub Activity
 
@@ -57,10 +48,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=NeoScraids&theme=radical" alt="GitHub Trophies" />
 </p>
 
-<!-- Separator Animated SVG -->
-<p align="center">
-  <img src="https://github.com/NeoScraids/NeoScraids/raw/main/divider.svg" width="100%" alt="Divider Animated" />
-</p>
+---
 
 ## 📂 Proyectos destacados
 
@@ -71,10 +59,7 @@
 | [ml-prompt-engineering](https://github.com/NeoScraids/ml-prompt-engineering)    | Python · PyTorch                   | Ejemplos de prompts y fine-tuning de modelos de lenguaje.                                               |
 | [bash-utils](https://github.com/NeoScraids/bash-utils)               | Bash · Shell Scripting             | Scripts de automatización, monitoreo y utilidades de sistema con colores y banners.                     |
 
-<!-- Separator Animated SVG -->
-<p align="center">
-  <img src="https://github.com/NeoScraids/NeoScraids/raw/main/divider.svg" width="100%" alt="Divider Animated" />
-</p>
+---
 
 ## 📫 Contacto
 
@@ -82,10 +67,7 @@
 - 🔗 LinkedIn: [Brandon Alexander Mendieta Suarez](https://www.linkedin.com/in/brandon-alexander-mendieta-suarez-15a14619b/)  
 - 💬 Twitter: [@Scraids](https://twitter.com/Scraids)  
 
-<!-- Separator Animated SVG -->
-<p align="center">
-  <img src="https://github.com/NeoScraids/NeoScraids/raw/main/divider.svg" width="100%" alt="Divider Animated" />
-</p>
+---
 
 <p align="center">
   <em>“Transformando líneas de código en infraestructuras robustas y experiencias de IA extraordinarias.”</em>
