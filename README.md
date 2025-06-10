@@ -52,10 +52,10 @@
 
 | Proyecto                         | Tech Stack                         | Descripción                                 |
 |----------------------------------|------------------------------------|---------------------------------------------|
-| [ansible-logs-archiver](link)    | Ansible · Bash                     | Playbook para renombrar, comprimir y archivar logs con host y fecha. |
-| [infra-as-code](link)            | Terraform · AWS                    | Módulos IaC para redes VPC, subnets y seguridad. |
-| [ml-prompt-engineering](link)    | Python · PyTorch                   | Ejemplos de prompts y fine-tuning de modelos. |
-| [bash-utils](link)               | Bash                               | Scripts de automatización y monitoreo.      |
+| [ansible-logs-archiver](https://github.com/NeoScraids/ansible-logs-archiver)    | Ansible · Bash                     | Playbook para renombrar, comprimir y archivar logs con host y fecha. |
+| [infra-as-code](https://github.com/NeoScraids/infra-as-code)            | Terraform · AWS                    | Módulos IaC para redes VPC, subnets y seguridad. |
+| [ml-prompt-engineering](https://github.com/NeoScraids/ml-prompt-engineering)    | Python · PyTorch                   | Ejemplos de prompts y fine-tuning de modelos. |
+| [bash-utils](https://github.com/NeoScraids/bash-utils-)               | Bash                               | Scripts de automatización y monitoreo.      |
 
 ---
 
