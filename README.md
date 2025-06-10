@@ -40,16 +40,6 @@
 
 ---
 
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NeoScraids&theme=radical" alt="GitHub Streak Stats" />
-  &nbsp;
-  <img src="https://github-profile-trophy.vercel.app/?username=NeoScraids&theme=radical" alt="GitHub Trophies" />
-</p>
-
----
-
 ## 📂 Proyectos destacados
 
 | Proyecto                                         | Tech Stack                         | Descripción                                                                                             |
@@ -73,14 +63,5 @@
   <em>“Transformando líneas de código en infraestructuras robustas y experiencias de IA extraordinarias.”</em>
 </p>
 
-<details>
-  <summary>🌟 Estadísticas de GitHub</summary>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=NeoScraids&show_icons=true&theme=radical" alt="GitHub Stats" />
-    &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeoScraids&layout=compact&theme=radical" alt="Top Languages" />
-  </p>
-</details>
 
 <!-- ¡Gracias por visitar! -->
