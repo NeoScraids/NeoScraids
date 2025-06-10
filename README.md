@@ -61,9 +61,8 @@
 
 ## 📫 Contacto
 
-- ✉️ Email: <tu.email@ejemplo.com>  
-- 🔗 LinkedIn: [tu-perfil](https://www.linkedin.com/in/tu-perfil)  
-- 🌐 Website: [tusitio.dev](https://tusitio.dev)  
+- ✉️ Email: <brandon7127329@gmail.com>  
+- 🔗 LinkedIn: [tu-perfil](https://www.linkedin.com/in/brandon-alexander-mendieta-suarez-15a14619b/)  
 
 ---
 
@@ -71,9 +70,9 @@
   <summary>🌟 Estadísticas de GitHub</summary>
 
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?NeoScraids=NeoScraids&show_icons=true&theme=radical" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=NeoScraids&show_icons=true&theme=radical" alt="GitHub Stats" />
     &nbsp;
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?NeoScraids=NeoScraids&layout=compact&theme=radical" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NeoScraids&layout=compact&theme=radical" alt="Top Languages" />
   </p>
 </details>
 
