@@ -84,6 +84,8 @@ Experiencia comprobada en el ciclo completo de confiabilidad de plataformas (SRE
 ### Proyectos & Arquitecturas Destacadas
 
 | Repositorio | Stack Tecnológico | Enfoque de Ingeniería |
+| :--- | :--- | :--- |
+| **[observability-lgtm-stack](https://github.com/NeoScraids/observability-lgtm-stack)** | `Grafana` `Mimir` `Tempo` `Loki` `Alloy` `OKE` | Stack completo de observabilidad LGTM en Docker y telemetría para Oracle OKE con correlación nativa Traces-Logs-Metrics y dashboards automatizados. |
 | **[k8s-gitops-catalog](https://github.com/NeoScraids/k8s-gitops-catalog)** | `Kubernetes` `ArgoCD` `Fintech Security` | Manifiestos para microservicios bancarios con NetworkPolicy zero-trust, autoescalado HPA, PDB y sincronización declarativa con ArgoCD. |
 | **[devops-pipeline-templates](https://github.com/NeoScraids/devops-pipeline-templates)** | `GitHub Actions` `DevSecOps` `Trivy` | Flujos reutilizables de CI/CD para construcción con Docker Buildx, escaneo de vulnerabilidades (SARIF) y release automatizado. |
 | **[sre-health-inspector](https://github.com/NeoScraids/sre-health-inspector)** | `Python` `Docker` `SRE Tooling` | Sonda CLI y contenedor Alpine para inspección proactiva de certificados SSL/TLS, latencias de red y telemetría de endpoints. |
