@@ -88,7 +88,7 @@ Experiencia comprobada en el ciclo completo de confiabilidad de plataformas (SRE
 | **[Portal-Devops](https://github.com/NeoScraids/Portal-Devops)** | `JavaScript` `Node.js` `Internal Tooling` | Portal interno para centralizar operaciones de despliegue, monitoreo de servicios y habilitar autoservicio a equipos de desarrollo. |
 | **[infra-as-code](https://github.com/NeoScraids/infra-as-code)** | `Terraform` `AWS` `HCL` | Aprovisionamiento declarativo de arquitecturas cloud modulares (VPCs, subredes segregadas, gateways y grupos de seguridad). |
 | **[ansible-logs-archiver](https://github.com/NeoScraids/ansible-logs-archiver)** | `Ansible` `Bash` `Linux` | Automatización de rotación, empaquetado, compresión y archivado estructurado de registros de auditoría y sistema. |
-| **[bash-utils-](https://github.com/NeoScraids/bash-utils-)** | `Bash` `Shell Scripting` | Herramientas de diagnóstico para servidores Linux, checklists de salud operativa, análisis de balanceadores y tareas de mantenimiento. |
+| **[bash-utils](https://github.com/NeoScraids/bash-utils)** | `Bash` `Shell Scripting` | Herramientas de diagnóstico para servidores Linux, checklists de salud operativa, análisis de balanceadores y tareas de mantenimiento. |
 | **[ml-prompt-engineering](https://github.com/NeoScraids/ml-prompt-engineering)** | `Python` `AI/ML` | Entornos experimentales de optimización de prompts y pipelines automatizados para modelos de lenguaje. |
 
 ---
