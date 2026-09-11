@@ -70,12 +70,13 @@ Experiencia comprobada en el ciclo completo de confiabilidad de plataformas (SRE
   <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
 </p>
 
-#### Datos, Observabilidad & Seguridad
+#### Datos, Observabilidad & AIOps
 <p align="left">
+  <img src="https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Amazon_Bedrock-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="Amazon Bedrock" />
+  <img src="https://img.shields.io/badge/Model_Context_Protocol-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="MCP" />
   <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault" />
 </p>
 
@@ -85,6 +86,9 @@ Experiencia comprobada en el ciclo completo de confiabilidad de plataformas (SRE
 
 | Repositorio | Stack Tecnológico | Enfoque de Ingeniería |
 | :--- | :--- | :--- |
+| **[mcp-k8s-observability](https://github.com/NeoScraids/mcp-k8s-observability)** | `Python` `MCP` `Kubernetes` `Prometheus` `Loki` | Servidor Model Context Protocol (MCP) que expone herramientas nativas de inspección de clústeres, métricas PromQL y logs LogQL para agentes autónomos de IA y Claude Desktop. |
+| **[bedrock-incident-copilot](https://github.com/NeoScraids/bedrock-incident-copilot)** | `LiteLLM` `Amazon Bedrock` `Claude 3.5` `AIOps` | Agente autónomo de triaje de alertas de producción e incidentes SRE; diagnostica la causa raíz (RCA) y genera runbooks ejecutables de mitigación con `kubectl`. |
+| **[otel-microservice-blueprint](https://github.com/NeoScraids/otel-microservice-blueprint)** | `FastAPI` `OpenTelemetry SDK` `OTLP` `Tempo` | Microservicio de referencia con instrumentación completa de trazas OTLP, métricas RED y logs JSON estructurados correlacionados automáticamente (Trace-to-Logs). |
 | **[observability-lgtm-stack](https://github.com/NeoScraids/observability-lgtm-stack)** | `Grafana` `Mimir` `Tempo` `Loki` `Alloy` `OKE` | Stack completo de observabilidad LGTM en Docker y telemetría para Oracle OKE con correlación nativa Traces-Logs-Metrics y dashboards automatizados. |
 | **[k8s-gitops-catalog](https://github.com/NeoScraids/k8s-gitops-catalog)** | `Kubernetes` `ArgoCD` `Fintech Security` | Manifiestos para microservicios bancarios con NetworkPolicy zero-trust, autoescalado HPA, PDB y sincronización declarativa con ArgoCD. |
 | **[devops-pipeline-templates](https://github.com/NeoScraids/devops-pipeline-templates)** | `GitHub Actions` `DevSecOps` `Trivy` | Flujos reutilizables de CI/CD para construcción con Docker Buildx, escaneo de vulnerabilidades (SARIF) y release automatizado. |
