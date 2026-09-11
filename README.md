@@ -3,11 +3,6 @@
   <!-- Header Banner SVG -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Brandon%20Mendieta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Fintech%20Infrastructure%20%7C%20Kubernetes&descColor=ffffff&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
-  <!-- Animated Typing Headline SVG -->
-  <a href="https://github.com/NeoScraids">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+%40+Fintech;Kubernetes+(OKE)+%26+OCI+Specialist;GitOps+with+ArgoCD+%26+Azure+DevOps;Infrastructure+as+Code+(Terraform+%2B+Ansible)&font=Fira+Code&center=true&width=560&height=45&color=38BDF8&vCenter=true&size=19" alt="Typing SVG" />
-  </a>
-
   <p align="center">
     <a href="https://www.linkedin.com/in/brandon-alexander-mendieta-suarez-15a14619b/">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -28,16 +23,15 @@
 
 ---
 
-### Perfil Profesional
+### Sobre Mí & Filosofía de Ingeniería
 
-Ingeniero DevOps con sólida trayectoria en el sector **Fintech**, especializado en la administración y alta disponibilidad de entornos transaccionales de misión crítica sobre **Oracle Cloud Infrastructure (OCI)** y **Kubernetes (OKE – Oracle Kubernetes Engine)**. 
+Soy **Brandon Mendieta**, Ingeniero DevOps & SRE enfocado en la estabilidad, resiliencia y observabilidad de sistemas transaccionales de misión crítica en el sector **Fintech**. Mi trabajo diario se centra en operar clústeres de **Kubernetes (OKE)** sobre **Oracle Cloud Infrastructure (OCI)**, diseñar pipelines de **CI/CD en Azure DevOps** y mantener la consistencia operativa mediante **GitOps con ArgoCD** e infraestructura como código con **Terraform**.
 
-Experiencia comprobada en el ciclo completo de confiabilidad de plataformas (SRE), implementando cultura **GitOps con ArgoCD**, pipelines robustos de **CI/CD en Azure DevOps** y automatización de aprovisionamiento con **Terraform y Ansible**. Creador de portales internos de ingeniería y herramientas de diagnóstico para observabilidad, salud de clústeres y autoservicio operativo.
+Mi enfoque práctico de ingeniería se sostiene en tres convicciones:
 
-- **Resiliencia & Misión Crítica:** Garantía de continuidad operativa y tolerancia a fallos en plataformas transaccionales financieras en producción, QA y desarrollo.
-- **Orquestación & GitOps:** Migración y escalado de microservicios con Kubernetes, Helm y despliegues declarativos versionados mediante ArgoCD.
-- **Automatización & Plataformas Internas:** Creación de herramientas CLI en Python/Bash y portales de autoservicio para diagnóstico y gobernanza de infraestructura.
-- **Networking & Seguridad Operativa:** Administración de balanceo de carga (HAProxy), enrutamiento, topologías de red segura y gestión criptográfica con GPG/SFTP.
+- **Observabilidad correlacionada sobre monitoreo ciego:** Un tablero con gráficos verdes no garantiza salud si no puedes aislar la causa raíz rápidamente. Invierto tiempo en conectar los tres pilares (OpenTelemetry, Alloy, Tempo y Loki) para que una anomalía en una métrica te lleve directamente a la traza y al log correspondiente en cuestión de segundos.
+- **Git como única fuente de verdad:** Todo cambio de infraestructura y despliegue debe ser declarativo e inmutable. Si algo no está expresado en código versionado y revisado mediante Pull Requests, no pertenece a los entornos de producción.
+- **Automatización pragmática:** La carga operativa repetitiva es el principal enemigo del escalado de un equipo. Construyo herramientas CLI en Python y Bash, portales internos de autoservicio y agentes AIOps con LiteLLM y servidores MCP para que los equipos de producto desplieguen con autonomía y confianza.
 
 ---
 
