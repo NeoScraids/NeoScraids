@@ -21,7 +21,7 @@
     <a href="https://github.com/NeoScraids">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
-    <img src="https://komarev.com/ghpvc/?username=NeoScraids&color=0ea5e9&style=for-the-badge&label=VIEWS" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=NeoScraids&base=1000&color=0ea5e9&style=for-the-badge&label=VIEWS" alt="Profile Views" />
   </p>
 
 </div>
