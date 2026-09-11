@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Banner SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Brandon%20Mendieta&fontSize=42&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Fintech%20Infrastructure%20%7C%20Kubernetes&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Brandon%20Mendieta&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Fintech%20Infrastructure%20%7C%20Kubernetes&descColor=ffffff&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline SVG -->
   <a href="https://github.com/NeoScraids">
