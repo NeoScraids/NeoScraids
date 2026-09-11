@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner SVG -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Brandon%20Mendieta&fontSize=42&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Cloud%20Architecture%20%7C%20Automation&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0284c7&height=200&section=header&text=Brandon%20Mendieta&fontSize=42&fontAlignY=38&desc=DevOps%20Engineer%20%7C%20Fintech%20Infrastructure%20%7C%20Kubernetes&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
 
   <!-- Animated Typing Headline SVG -->
   <a href="https://github.com/NeoScraids">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer;Cloud+Infrastructure+%26+IaC;CI%2FCD+Pipelines+%26+GitOps;Linux+Systems+%26+Observability&font=Fira+Code&center=true&width=520&height=45&color=38BDF8&vCenter=true&size=20" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=DevOps+Engineer+%40+Fintech;Kubernetes+(OKE)+%26+OCI+Specialist;GitOps+with+ArgoCD+%26+Azure+DevOps;Infrastructure+as+Code+(Terraform+%2B+Ansible)&font=Fira+Code&center=true&width=560&height=45&color=38BDF8&vCenter=true&size=19" alt="Typing SVG" />
   </a>
 
   <p align="center">
@@ -30,68 +30,66 @@
 
 ### Perfil Profesional
 
-Ingeniero DevOps enfocado en el diseño, aprovisionamiento y escalamiento de infraestructuras cloud resilientes, automatizadas y de alta disponibilidad. Especializado en la adopción de prácticas GitOps, Infraestructura como Código (IaC), orquestación de contenedores y diseño de pipelines CI/CD que aceleran el ciclo de entrega de software garantizando estándares rigurosos de seguridad, monitoreo y confiabilidad operacional (SRE).
+Ingeniero DevOps con sólida trayectoria en el sector **Fintech**, especializado en la administración y alta disponibilidad de entornos transaccionales de misión crítica sobre **Oracle Cloud Infrastructure (OCI)** y **Kubernetes (OKE – Oracle Kubernetes Engine)**. 
 
-- **Estrategia Cloud & IaC:** Aprovisionamiento inmutable y modular de recursos en entornos AWS y Azure mediante Terraform y Ansible.
-- **Contenedores & Orquestación:** Empaquetado, despliegue y gestión de microservicios con Docker y Kubernetes.
-- **Automatización & CI/CD:** Implementación de pipelines declarativos optimizados con GitHub Actions y GitLab CI.
-- **Observabilidad & SRE:** Centralización de logs, análisis de métricas y dashboards operacionales con Prometheus y Grafana.
+Experiencia comprobada en el ciclo completo de confiabilidad de plataformas (SRE), implementando cultura **GitOps con ArgoCD**, pipelines robustos de **CI/CD en Azure DevOps** y automatización de aprovisionamiento con **Terraform y Ansible**. Creador de portales internos de ingeniería y herramientas de diagnóstico para observabilidad, salud de clústeres y autoservicio operativo.
+
+- **Resiliencia & Misión Crítica:** Garantía de continuidad operativa y tolerancia a fallos en plataformas transaccionales financieras en producción, QA y desarrollo.
+- **Orquestación & GitOps:** Migración y escalado de microservicios con Kubernetes, Helm y despliegues declarativos versionados mediante ArgoCD.
+- **Automatización & Plataformas Internas:** Creación de herramientas CLI en Python/Bash y portales de autoservicio para diagnóstico y gobernanza de infraestructura.
+- **Networking & Seguridad Operativa:** Administración de balanceo de carga (HAProxy), enrutamiento, topologías de red segura y gestión criptográfica con GPG/SFTP.
 
 ---
 
 ### Competencias Técnicas
 
-#### Cloud & Virtualización
+#### Cloud & Plataformas de Contenedores
 <p align="left">
+  <img src="https://img.shields.io/badge/Oracle_Cloud_(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI" />
+  <img src="https://img.shields.io/badge/Kubernetes_(OKE)-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
 </p>
 
-#### Infraestructura como Código & Gestión de Configuración
+#### CI/CD, GitOps & Gestión de Configuración
 <p align="left">
+  <img src="https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
 </p>
 
-#### Contenedores & Orquestación
+#### Scripting, Sistemas & Networking
 <p align="left">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
-</p>
-
-#### CI/CD, Scripting & Automatización
-<p align="left">
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Linux_(RHEL/CentOS/Ubuntu)-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/HAProxy-00557F?style=for-the-badge&logo=haproxy&logoColor=white" alt="HAProxy" />
+  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
 </p>
 
-#### Observabilidad, Sistemas & Seguridad
+#### Datos, Observabilidad & Seguridad
 <p align="left">
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
-  <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/HashiCorp_Vault-FFEC6E?style=for-the-badge&logo=vault&logoColor=black" alt="Vault" />
 </p>
 
 ---
 
-### Proyectos de Infraestructura & DevOps
+### Proyectos & Arquitecturas Destacadas
 
 | Repositorio | Stack Tecnológico | Enfoque de Ingeniería |
 | :--- | :--- | :--- |
-| **[infra-as-code](https://github.com/NeoScraids/infra-as-code)** | `Terraform` `AWS` `HCL` | Módulos de infraestructura como código para redes VPC, subredes públicas/privadas y políticas de seguridad. |
-| **[ansible-logs-archiver](https://github.com/NeoScraids/ansible-logs-archiver)** | `Ansible` `Bash` `Linux` | Playbooks de automatización para recolección, compresión, rotación y archivado centralizado de registros de sistema. |
-| **[Portal-Devops](https://github.com/NeoScraids/Portal-Devops)** | `JavaScript` `Node.js` `CI/CD` | Portal de control y monitorización para operaciones, administración de despliegues y servicios. |
-| **[bash-utils-](https://github.com/NeoScraids/bash-utils-)** | `Bash` `Shell Scripting` | Colección modular de scripts para diagnóstico de servidores, métricas de rendimiento y tareas de mantenimiento. |
-| **[ml-prompt-engineering](https://github.com/NeoScraids/ml-prompt-engineering)** | `Python` `AI/ML` | Entornos de evaluación y automatización de prompts para pipelines de modelos de lenguaje e IA. |
+| **[Portal-Devops](https://github.com/NeoScraids/Portal-Devops)** | `JavaScript` `Node.js` `Internal Tooling` | Portal interno para centralizar operaciones de despliegue, monitoreo de servicios y habilitar autoservicio a equipos de desarrollo. |
+| **[infra-as-code](https://github.com/NeoScraids/infra-as-code)** | `Terraform` `AWS` `HCL` | Aprovisionamiento declarativo de arquitecturas cloud modulares (VPCs, subredes segregadas, gateways y grupos de seguridad). |
+| **[ansible-logs-archiver](https://github.com/NeoScraids/ansible-logs-archiver)** | `Ansible` `Bash` `Linux` | Automatización de rotación, empaquetado, compresión y archivado estructurado de registros de auditoría y sistema. |
+| **[bash-utils-](https://github.com/NeoScraids/bash-utils-)** | `Bash` `Shell Scripting` | Herramientas de diagnóstico para servidores Linux, checklists de salud operativa, análisis de balanceadores y tareas de mantenimiento. |
+| **[ml-prompt-engineering](https://github.com/NeoScraids/ml-prompt-engineering)** | `Python` `AI/ML` | Entornos experimentales de optimización de prompts y pipelines automatizados para modelos de lenguaje. |
 
 ---
 
@@ -108,7 +106,7 @@ Ingeniero DevOps enfocado en el diseño, aprovisionamiento y escalamiento de inf
 <div align="center">
   <p>
     <a href="https://www.linkedin.com/in/brandon-alexander-mendieta-suarez-15a14619b/">
-      <img src="https://img.shields.io/badge/LinkedIn-Perfil_Profesional-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-Brandon_Mendieta-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;&nbsp;
     <a href="mailto:brandon7127329@gmail.com">
@@ -120,6 +118,6 @@ Ingeniero DevOps enfocado en el diseño, aprovisionamiento y escalamiento de inf
     </a>
   </p>
   <p>
-    <sub><i>"Infraestructura inmutable, automatización resiliente y entrega continua de alta disponibilidad."</i></sub>
+    <sub><i>"Infraestructura inmutable, despliegues declarativos con GitOps y estabilidad en entornos de misión crítica."</i></sub>
   </p>
 </div>
