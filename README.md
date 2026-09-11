@@ -84,8 +84,10 @@ Experiencia comprobada en el ciclo completo de confiabilidad de plataformas (SRE
 ### Proyectos & Arquitecturas Destacadas
 
 | Repositorio | Stack Tecnológico | Enfoque de Ingeniería |
-| :--- | :--- | :--- |
-| **[Portal-Devops](https://github.com/NeoScraids/Portal-Devops)** | `JavaScript` `Node.js` `Internal Tooling` | Portal interno para centralizar operaciones de despliegue, monitoreo de servicios y habilitar autoservicio a equipos de desarrollo. |
+| **[k8s-gitops-catalog](https://github.com/NeoScraids/k8s-gitops-catalog)** | `Kubernetes` `ArgoCD` `Fintech Security` | Manifiestos para microservicios bancarios con NetworkPolicy zero-trust, autoescalado HPA, PDB y sincronización declarativa con ArgoCD. |
+| **[devops-pipeline-templates](https://github.com/NeoScraids/devops-pipeline-templates)** | `GitHub Actions` `DevSecOps` `Trivy` | Flujos reutilizables de CI/CD para construcción con Docker Buildx, escaneo de vulnerabilidades (SARIF) y release automatizado. |
+| **[sre-health-inspector](https://github.com/NeoScraids/sre-health-inspector)** | `Python` `Docker` `SRE Tooling` | Sonda CLI y contenedor Alpine para inspección proactiva de certificados SSL/TLS, latencias de red y telemetría de endpoints. |
+| **[Portal-Devops](https://github.com/NeoScraids/Portal-Devops)** | `Next.js 14` `TypeScript` `Internal IDP` | Portal interno para centralizar operaciones de despliegue, monitoreo de servicios y habilitar autoservicio a equipos de desarrollo. |
 | **[infra-as-code](https://github.com/NeoScraids/infra-as-code)** | `Terraform` `AWS` `HCL` | Aprovisionamiento declarativo de arquitecturas cloud modulares (VPCs, subredes segregadas, gateways y grupos de seguridad). |
 | **[ansible-logs-archiver](https://github.com/NeoScraids/ansible-logs-archiver)** | `Ansible` `Bash` `Linux` | Automatización de rotación, empaquetado, compresión y archivado estructurado de registros de auditoría y sistema. |
 | **[bash-utils](https://github.com/NeoScraids/bash-utils)** | `Bash` `Shell Scripting` | Herramientas de diagnóstico para servidores Linux, checklists de salud operativa, análisis de balanceadores y tareas de mantenimiento. |
